@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": 0,
+    "name": "iPhone 6S",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_teaser_05.jpg",
+    "price": 799,
+    "count": 1
+  },
+  {
+    "id": 1,
+    "name": "iPhone 5S",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://recy-cell.ca/wp-content/uploads/2022/06/Iphone-5s-1.jpg",
+    "price": 349,
+    "count": 1
+  },
+  {
+    "id": 2,
+    "name": "Macbook",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://files.refurbed.com/ii/apple-macbook-pro-2019-16-1648021725.jpg?t=resize&h=600&w=800",
+    "price": 1499,
+    "count": 1
+  },
+  {
+    "id": 3,
+    "name": "Macbook Air",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://helios-i.mashable.com/imagery/reviews/07qLER2Lhqh3jGyBzBRrFBO/hero-image.fill.size_1248x702.v1623389216.jpg",
+    "price": 999,
+    "count": 1
+  },
+  {
+    "id": 4,
+    "name": "Macbook Air 2013",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://images.anandtech.com/doci/7085/DSC_0976_678x452.jpg",
+    "price": 599,
+    "count": 1
+  },
+  {
+    "id": 5,
+    "name": "Macbook Air 2012",
+    "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/a1108b7982419003991a7783656aeb943d0f1409/hub/2012/06/21/78955509-bb76-11e2-8a8e-0291187978f3/macbook_air_11inch_2012_04.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "price": 499,
+    "count": 1
+  }
+]
+
